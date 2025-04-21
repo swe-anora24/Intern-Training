@@ -22,5 +22,6 @@ int main(){
      free(ptr);
 
      printf("%d\n",ptr->x);
-
+     printf("%d\n",ptr->y);
+     printf("%c\n",ptr->c);
 }
