@@ -24,4 +24,5 @@ int main(){
      printf("%d\n",ptr->x);
      printf("%d\n",ptr->y);
      printf("%c\n",ptr->c);
+     printf("I am in main");
 }
