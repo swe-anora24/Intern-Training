@@ -22,7 +22,10 @@ int main(){
      free(ptr);
 
      printf("%d\n",ptr->x);
+<<<<<<< HEAD
      printf("%d\n",ptr->y);
      printf("%c\n",ptr->c);
      printf("I am in main");
+=======
+>>>>>>> once
 }
