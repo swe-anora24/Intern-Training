@@ -25,17 +25,12 @@ int main(){
      printf("%d\n",ptr->y);
      printf("%c\n",ptr->c);
      printf("I am in  the branch ");
-<<<<<<< HEAD
      printf("I am in second branch ");
-=======
-<<<<<<< HEAD
->>>>>>> c484183 (Ok)
 
     
 =======
     printf("Today is 22-04-2025");
 >>>>>>> e81c7e5 (The main changes)
 =======
-    printf("Today is 22-04-2025");
->>>>>>> e81c7e5 (The main changes)
+>>>>>>> f96d1b3 (Changes to branch)
 }
