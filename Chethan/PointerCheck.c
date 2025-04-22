@@ -35,4 +35,7 @@ int main(){
 =======
     printf("Today is 22-04-2025");
 >>>>>>> e81c7e5 (The main changes)
+=======
+    printf("Today is 22-04-2025");
+>>>>>>> e81c7e5 (The main changes)
 }
