@@ -25,11 +25,6 @@ int main(){
      printf("%d\n",ptr->y);
      printf("%c\n",ptr->c);
      printf("I am in  the branch ");
-    printf("Toda");
 
-    printf("The new branch");
-    printf("The second branch");
-    printf("The second is changing ");
-    printf("Now modifying the second");
     
 }
