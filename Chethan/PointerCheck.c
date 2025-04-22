@@ -28,4 +28,5 @@ int main(){
      printf("I am in second branch ");
 
 printf("first place");
+printf("It should be there");
 }
