@@ -1,0 +1,7 @@
+diff a/Chethan/PointerCheck.c b/Chethan/PointerCheck.c	(rejected hunks)
+@@ -28,4 +28,5 @@
+     printf("Toda");
+ 
+     printf("The new branch");
++    printf("The second branch");
+ }
