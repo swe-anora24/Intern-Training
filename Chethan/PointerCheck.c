@@ -29,4 +29,5 @@ int main(){
 
 printf("first place");
 printf("It should be there");
+printf("This should be in that place");
 }
