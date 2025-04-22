@@ -25,6 +25,7 @@ int main(){
      printf("%d\n",ptr->y);
      printf("%c\n",ptr->c);
      printf("I am in  the branch ");
+     printf("I am in second branch ");
 
     
 }
