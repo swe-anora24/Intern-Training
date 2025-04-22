@@ -27,10 +27,4 @@ int main(){
      printf("I am in  the branch ");
      printf("I am in second branch ");
 
-    
-=======
-    printf("Today is 22-04-2025");
->>>>>>> e81c7e5 (The main changes)
-=======
->>>>>>> f96d1b3 (Changes to branch)
 }
