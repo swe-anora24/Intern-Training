@@ -1,6 +1,11 @@
 #include<stdio.h>
 int main(){
     printf("The main ");
+    
+}
+#include<stdio.h>
+int main(){
+    printf("The main ");
     printf("Now for stashing");
     printf("Extra line for stashes");
     printf("Once ")
